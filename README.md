@@ -1,5 +1,5 @@
 # load-balancer-nginx-docker-v1
-![Architecture Diagram](./hld/system.png)
+![Architecture Diagram](./HLD/system.png)
 
 
 # Dockerized Node.js Project with Nginx Load Balancing
